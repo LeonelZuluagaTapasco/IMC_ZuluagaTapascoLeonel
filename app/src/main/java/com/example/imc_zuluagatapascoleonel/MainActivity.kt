@@ -17,8 +17,8 @@ import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
 import androidx.activity.viewModels
-import com.example.imc_zuluagatapascoleonel.ImcScreen
-import com.example.imc_zuluagatapascoleonel.ImcViewModel
+import com.example.imc_zuluagatapascoleonel.ui.ImcScreen
+import com.example.imc_zuluagatapascoleonel.viewmodel.ImcViewModel
 
 
 class MainActivity : ComponentActivity() {

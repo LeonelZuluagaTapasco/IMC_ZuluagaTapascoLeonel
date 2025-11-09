@@ -1,4 +1,4 @@
-package com.example.imc_zuluagatapascoleonel
+package com.example.imc_zuluagatapascoleonel.model
 
 data class ImcResult(
     val imc: Double,

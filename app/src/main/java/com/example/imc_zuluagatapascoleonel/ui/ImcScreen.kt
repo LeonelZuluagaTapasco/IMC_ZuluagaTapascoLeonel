@@ -1,4 +1,4 @@
-package com.example.imc_zuluagatapascoleonel
+package com.example.imc_zuluagatapascoleonel.ui
 
 import androidx.compose.foundation.text.KeyboardOptions
 import androidx.compose.ui.text.input.KeyboardType
@@ -10,7 +10,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.unit.dp
-import com.example.imc_zuluagatapascoleonel.ImcViewModel
+import com.com.example.imc_zuluagatapascoleonel.viewmodel.ImcViewModel
 import androidx.compose.ui.Alignment
 
 @OptIn(ExperimentalMaterial3Api::class)

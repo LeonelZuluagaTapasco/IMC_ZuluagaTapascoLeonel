@@ -1,8 +1,8 @@
-package com.example.imc_zuluagatapascoleonel
+package com.example.imc_zuluagatapascoleonel.viewmodel
 
 import androidx.compose.runtime.*
 import androidx.lifecycle.ViewModel
-import com.example.imc_zuluagatapascoleonel.ImcResult
+import com.example.imc_zuluagatapascoleonel.model.ImcResult
 import kotlin.math.pow
 import kotlin.math.round
 
